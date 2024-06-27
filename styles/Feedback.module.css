@@ -1,0 +1,26 @@
+.feedbackContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .digitImage {
+    width: 60px;
+    height: 120px;
+  }
+  
+  .correct {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: green;
+  }
+  
+  .incorrect {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: lightcoral;
+  }
+  

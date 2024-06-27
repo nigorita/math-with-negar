@@ -1,0 +1,12 @@
+.digitContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .digitImage {
+    width: 30px; /* Adjust size for better fit */
+    height: auto;
+    margin: 0 2px; /* Add some space between digits */
+  }
+  
